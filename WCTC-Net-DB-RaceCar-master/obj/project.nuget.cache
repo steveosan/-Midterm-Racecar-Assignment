@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PHjZEpExgzcdLouUpAEDxbumHz1odEPdN1ce7JfPBiwDcKFuF9v/8OxkvqnR1x7WDRnv6gH+ZhmgW4oiyZL98Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Steve\\Desktop\\WCTC-Net-DB-RaceCar-master\\RaceTrack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Steve\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Steve\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

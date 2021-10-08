@@ -1,0 +1,15 @@
+C:\Users\Steve\Desktop\WCTC-Net-DB-RaceCar-master\bin\Debug\net5.0\RaceTrack.exe
+C:\Users\Steve\Desktop\WCTC-Net-DB-RaceCar-master\bin\Debug\net5.0\RaceTrack.dll.config
+C:\Users\Steve\Desktop\WCTC-Net-DB-RaceCar-master\bin\Debug\net5.0\RaceTrack.deps.json
+C:\Users\Steve\Desktop\WCTC-Net-DB-RaceCar-master\bin\Debug\net5.0\RaceTrack.runtimeconfig.json
+C:\Users\Steve\Desktop\WCTC-Net-DB-RaceCar-master\bin\Debug\net5.0\RaceTrack.runtimeconfig.dev.json
+C:\Users\Steve\Desktop\WCTC-Net-DB-RaceCar-master\bin\Debug\net5.0\RaceTrack.dll
+C:\Users\Steve\Desktop\WCTC-Net-DB-RaceCar-master\bin\Debug\net5.0\ref\RaceTrack.dll
+C:\Users\Steve\Desktop\WCTC-Net-DB-RaceCar-master\bin\Debug\net5.0\RaceTrack.pdb
+C:\Users\Steve\Desktop\WCTC-Net-DB-RaceCar-master\obj\Debug\net5.0\RaceTrack.csproj.AssemblyReference.cache
+C:\Users\Steve\Desktop\WCTC-Net-DB-RaceCar-master\obj\Debug\net5.0\RaceTrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\Desktop\WCTC-Net-DB-RaceCar-master\obj\Debug\net5.0\RaceTrack.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Desktop\WCTC-Net-DB-RaceCar-master\obj\Debug\net5.0\RaceTrack.dll
+C:\Users\Steve\Desktop\WCTC-Net-DB-RaceCar-master\obj\Debug\net5.0\ref\RaceTrack.dll
+C:\Users\Steve\Desktop\WCTC-Net-DB-RaceCar-master\obj\Debug\net5.0\RaceTrack.pdb
+C:\Users\Steve\Desktop\WCTC-Net-DB-RaceCar-master\obj\Debug\net5.0\RaceTrack.genruntimeconfig.cache
